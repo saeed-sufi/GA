@@ -46,3 +46,19 @@
 ## Intro to analytics - Segment
 
 * Good metrics offer two things: 1) They help you identify how your business is doing and 2) They tell you what to focus on.
+
+* Your dashboard metrics should make it impossible to hide from failure.
+
+* There's one place where totals make sense, and that's major company goals.
+
+* Having a metric that's controlled by two different teams is a problem because it lets one team's failure hide in another's success.
+
+* Every metric on our dashboard is intended to focus our attention on a specific business process we need to optimize.
+
+* Analytics is about learning. First, you have to decide what you want to learn. Then, you figure out how you're going to measure it. And only after that do you build your experiment.
+
+* Before you build anything — product, marketing campaigns, whatever, decide what you're going to learn from building it.
+
+* In order to avoid falling into vanity trap:  All metrics should be actionable, accessible, and auditable.
+
+* Retention cohorts are the most important metric to measure product-market fit. Retention cohorts show whether the same cohort of users comes back week over week to derive value from your new product.
