@@ -65,21 +65,21 @@
 
 ## Misc
 
-### From keen.io blog
+### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
 
 * Event data has three key pieces of information: 1. Action, 2. Timestamp, 3. State.
 
-*  The state refers to all of the other relevant information we know about this event, including information about entities related to the event
+* The state refers to all of the other relevant information we know about this event, including information about entities related to the event
 
 * Entity data captures the current state of things. Event data captures the history of actions that happen over time:
 
 ![entity data vs event data source: keen.io/blog](https://github.com/saeed-sufi/GA/blob/main/entity-vs-event.png?raw=true)
 
-### From thoughtbot.com blog
+### From [thoughtbot.com blog post about north star metric](https://thoughtbot.com/blog/north-star-metric)
 
 * Numbers identify the “what.” We identify the “why.”
 
-## From the vanity [metrics article on Harvard Business Review](https://hbr.org/2010/02/entrepreneurs-beware-of-vanity-metrics)
+### From the [vanity metrics article on Harvard Business Review](https://hbr.org/2010/02/entrepreneurs-beware-of-vanity-metrics)
 
 * All metrics should be actionable, accessible, and auditable.
   - **Actionable**: When an employee sees a report about a specific metric, it’s essential that they have some idea how to replicate the result in the report. Techniques like split-testing are the gold-standard here.
