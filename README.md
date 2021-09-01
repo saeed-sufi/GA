@@ -65,4 +65,4 @@
 
 * Entity data captures the current state of things. Event data captures the history of actions that happen over time:
 
-![entity data vs event data source: keen.io/blog](entity-vs-event.jpg?raw=true "Entity data vs Event data")
+![entity data vs event data source: keen.io/blog](https://github.com/saeed-sufi/GA/blob/main/entity-vs-event.png?raw=true)
