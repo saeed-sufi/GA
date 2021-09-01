@@ -63,6 +63,10 @@
 
 * Retention cohorts are the most important metric to measure product-market fit. Retention cohorts show whether the same cohort of users comes back week over week to derive value from your new product.
 
+## Misc
+
+### From keen.io blog
+
 * Event data has three key pieces of information: 1. Action, 2. Timestamp, 3. State.
 
 *  The state refers to all of the other relevant information we know about this event, including information about entities related to the event
@@ -70,3 +74,16 @@
 * Entity data captures the current state of things. Event data captures the history of actions that happen over time:
 
 ![entity data vs event data source: keen.io/blog](https://github.com/saeed-sufi/GA/blob/main/entity-vs-event.png?raw=true)
+
+### From thoughtbot.com blog
+
+* Numbers identify the “what.” We identify the “why.”
+
+## From the vanity [metrics article on Harvard Business Review](https://hbr.org/2010/02/entrepreneurs-beware-of-vanity-metrics)
+
+* All metrics should be actionable, accessible, and auditable.
+  - **Actionable**: When an employee sees a report about a specific metric, it’s essential that they have some idea how to replicate the result in the report. Techniques like split-testing are the gold-standard here.
+  - **Accessable**: Reports shouldn't be complicated. 1. Everyone in the company understand how to read them. 2. Everyone in the company has easy access to the latest data. Also, key data should be available to any employee, anytime, in a matter of minutes. In order to achieve that goal, the reports themselves have to be extremely simple.
+  - **Auditable**: The biggest benefit of actionable metrics is that they can be used to reap the biggest savings in all of product development, when they tell you that you don’t need to do something. Also, It’s important that skeptics can audit a report.
+
+* Remember, metrics are really reports on people. This is where most off-the-shelf metrics packages fail. For example, consider a report that claims in a split-test between two proposed features, feature A generated more revenue than feature B. Which people used feature A? Which people used feature B?...  
