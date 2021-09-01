@@ -43,7 +43,7 @@
 * Each time a user completes one of your business goals, we call this a “conversion.” This could be signing up for a newsletter or buying a product.
 
 
-## Intro to analytics - Segment
+## Intro to analytics - Segment Academy
 
 * Good metrics offer two things: 1) They help you identify how your business is doing and 2) They tell you what to focus on.
 
@@ -62,6 +62,51 @@
 * In order to avoid falling into vanity trap:  All metrics should be actionable, accessible, and auditable.
 
 * Retention cohorts are the most important metric to measure product-market fit. Retention cohorts show whether the same cohort of users comes back week over week to derive value from your new product.
+
+
+## Google Analytics Academy - Advanced
+
+* Tag Manager lets you make updates to your tracking code from a centralized location, rather than having to manually update the code on every page of your website.
+
+* Three most common types of hits are pageview, event and transaction hits (ecommerce hit). There are also other types of hits like : social hits (likes, shares, tweet data...) and “page timing hits” that allow you to report on page timings
+
+* Event hits, pass 4 parameters in the url: action, category, label and value
+
+* Note that if you install the same default tracking code on pages with different domains, Analytics will count these users and sessions separately. If you need to track users across different domains, you will need to set up cross-domain tracking. 
+
+* Google analytics processes data taking these first steps: First, Analytics determines new vs. returning users (unique cid). Then it categorizes hits into session (or periods in which the user engaged with the site). Next, it joins data from the tracking code with other data sources. 
+
+* If you wish to track users across devices, you’ll need to turn on the User ID feature
+
+* Google Analytics groups user hits based on the time in which they were generated. To measure these periods, Analytics uses a metric called “sessions.”
+
+* A site with a goal to get users to watch videos might want to extend session timeout to the average watch time of the videos on the site.
+
+* If you want to send hits from external sources to GA you should use the measurement protocol 
+
+* You can setup data configuration rules that determine how your data will be processed. This includes implementing features like data filters, goals, data grouping, Custom Dimensions, Custom Metrics, and imported data. 
+
+* There are four types of Goals in Google Analytics: Destination (or Pageview) Goals, Event Goals, Duration Goals, Pages or Screens per Session.
+
+* Channel Groupings let you organize your data into customized channels, while Content Grouping lets you aggregate metrics within reports based on the organization of your website.
+
+* Custom Dimensions can be used as a secondary dimension in standard reports, a primary dimension in a Custom Report, or as a segment. “Custom Metrics” can be collected for any standard dimension or Custom Dimension that can’t be measured by any predefined metric in Google Analytics.
+
+* When Analytics creates dimensions and metrics during processing, it has to determine the scope of those dimensions and metrics in order to know how broadly applicable they are to your data. Some of them might organize data about a single hit and some of them might apply to data across an entire session or individual user. 
+
+* Dimensions and metrics can have one of three scopes: hit-level, session-level and user-level. You can only pair metrics with dimensions if they are both in the same scope.
+
+* It’s possible to access your Analytics data using the Google Analytics Core Reporting API.
+
+* In order to come up with a measurement strategy you need to take some time to define your business objectives and how you expect to measure those outcomes. We have to first define out macro and micro conversions. 
+
+*  A measurement plan is a way for you to align your business objectives with your Google Analytics configuration settings. Your measurement plan should include an overall business objective, different strategies that support that objective, and tactics that will help you achieve your strategies. Each tactic will have key performance indicators (or KPIs) that help you measure your macro- or micro-conversions.
+
+* Macro conversions usually measure the tactics that support your various strategies. Micro conversions are metrics that help you better understand the user behavior that leads to macro conversions. 
+
+* A measurement plan is a great way to document the data that is most important to your business. 
+
+* If you have two related websites with different URLs or subdomains that you want to track in a single property, you can set up what’s called “cross-domain tracking.” To set up cross-domain tracking, you’ll need to modify the Analytics tracking code on every page of every site you want to track. Google Tag Manager can make updating that code a lot easier.
 
 ## Misc
 
