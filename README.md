@@ -62,3 +62,5 @@
 * In order to avoid falling into vanity trap:  All metrics should be actionable, accessible, and auditable.
 
 * Retention cohorts are the most important metric to measure product-market fit. Retention cohorts show whether the same cohort of users comes back week over week to derive value from your new product.
+
+* Entity data captures the current state of things. Event data captures the history of actions that happen over time.
