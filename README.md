@@ -63,6 +63,10 @@
 
 * Retention cohorts are the most important metric to measure product-market fit. Retention cohorts show whether the same cohort of users comes back week over week to derive value from your new product.
 
+* Event data has three key pieces of information: 1. Action, 2. Timestamp, 3. State.
+
+*  The state refers to all of the other relevant information we know about this event, including information about entities related to the event
+
 * Entity data captures the current state of things. Event data captures the history of actions that happen over time:
 
 ![entity data vs event data source: keen.io/blog](https://github.com/saeed-sufi/GA/blob/main/entity-vs-event.png?raw=true)
