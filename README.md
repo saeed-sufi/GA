@@ -108,6 +108,20 @@
 
 * If you have two related websites with different URLs or subdomains that you want to track in a single property, you can set up what’s called “cross-domain tracking.” To set up cross-domain tracking, you’ll need to modify the Analytics tracking code on every page of every site you want to track. Google Tag Manager can make updating that code a lot easier.
 
+* You can create user segments or session segments. User segments can span multiple sessions with a maximum date range of 90 days. Session segments are confined to user behavior within a single session.
+
+* Note that segments are applied after sampling. So if the data being shown in your reports is a sample, the data shown in your segments will also be a sample.
+
+* Attribution modeling is a set of rules that determine how sales and conversions get attributed to your marketing campaigns.
+
+* A channel that contributed to a conversion prior to the final interaction would be credited with an “assisted conversion.”
+
+* "The Top Conversions Paths report" shows conversions and conversion value grouped by the channel combinations that led to conversion. "The Time Lag report" shows conversions grouped by the number of days it took from initial interest to conversion. "The Path Length report" also shows how many interactions on average it took to convert and how much each series of interactions was worth.
+
+* You can use channel analysis to better understand what channels work for your business and which are most responsible for facilitating conversions.
+
+
+
 ## Misc
 
 ### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
