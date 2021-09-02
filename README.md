@@ -120,6 +120,8 @@
 
 * You can use channel analysis to better understand what channels work for your business and which are most responsible for facilitating conversions.
 
+* Note that Audiences that include the Google Display Network's demographics dimensions “Age, Gender, Interests” are not eligible for Search remarketing.
+
 * Collect data, Create report, Analyze reports and finally Test solutions. 
 
 * Analysis is the process of developing hypotheses based on your expectations and figuring out why your metrics match or don’t match those expectations. When you find data that doesn’t align with your expectations, your analysis can help you figure out the cause.
