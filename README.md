@@ -128,9 +128,13 @@
 
 * Because the Cohort Analysis Report is user-based, if you apply segments based on sessions, you can get unexpected results that do not include 100% of users on Day 0 as you would expect. Also note that filters that exclude Day-0 users can affect the data for subsequent days. For example, if you apply a filter that excludes Day-0 sessions for some users but includes sessions for those same users on subsequent days, then the values for those subsequent days can exceed 100%.
 
+## Google Analytics Help Center
+
 * When interpreting cohort charts, remember to look into both micro and macro trends as might lose some micro trends if you only check macro trends.
 
 * By simply comparing the values in a single column, you can see whether there’s consistent behavior among your cohorts, or whether performance improves or deteriorates.
+
+* Goals measure how effectively your application or website supports your business objectives. A goal represents a completed activity, called a conversion, that contributes to the success of your business.
 
 * 
 
