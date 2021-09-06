@@ -140,6 +140,9 @@
 
 ## Misc
 
+* Improving your load time by 0.1s can boost conversion rates by 8%.
+
+
 ### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
 
 * Event data has three key pieces of information: 1. Action, 2. Timestamp, 3. State.
@@ -162,3 +165,5 @@
   - **Auditable**: The biggest benefit of actionable metrics is that they can be used to reap the biggest savings in all of product development, when they tell you that you don’t need to do something. Also, It’s important that skeptics can audit a report.
 
 * Remember, metrics are really reports on people. This is where most off-the-shelf metrics packages fail. For example, consider a report that claims in a split-test between two proposed features, feature A generated more revenue than feature B. Which people used feature A? Which people used feature B?...  
+
+
