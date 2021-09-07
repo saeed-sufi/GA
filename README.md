@@ -144,7 +144,9 @@
 
 * Don't deploy gtag.js as a custom tag through the Google Tag Manager interface. Instead, use Google Tag Manager's native tag templates for Google Ads, Analytics, and Floodlight.
 
+* Always links Google Ads and Google Search Console to your GA account. 
 
+* When Setting up new properties for your acount (adding new websites), don't forget to also activate Universal Analytics alongside GA4. 
 
 ### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
 
