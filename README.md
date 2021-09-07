@@ -136,8 +136,6 @@
 
 * Goals measure how effectively your application or website supports your business objectives. A goal represents a completed activity, called a conversion, that contributes to the success of your business.
 
-* 
-
 ## Misc
 
 * Improving your load time by 0.1s can boost conversion rates by 8%.
@@ -147,6 +145,12 @@
 * Always links Google Ads and Google Search Console to your GA account. 
 
 * When Setting up new properties for your acount (adding new websites), don't forget to also activate Universal Analytics alongside GA4. 
+
+* Purchasing patterns can help you identify the right time to promote the right products.
+
+* Attribution is simply the science (or, too often, the art) of distributing credit for conversions across your various marketing channels.
+
+
 
 ### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
 
