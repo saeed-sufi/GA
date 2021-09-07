@@ -142,6 +142,9 @@
 
 * Improving your load time by 0.1s can boost conversion rates by 8%.
 
+* Don't deploy gtag.js as a custom tag through the Google Tag Manager interface. Instead, use Google Tag Manager's native tag templates for Google Ads, Analytics, and Floodlight.
+
+
 
 ### From [keen.io blog post about how to think about event data](https://keen.io/blog/analytics-for-hackers-how-to-think-about-event-data/)
 
