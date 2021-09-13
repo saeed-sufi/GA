@@ -152,14 +152,14 @@
 
 ### Custom dimension examples
 
-#### [From online metrics blog post on custom dimensions] (https://online-metrics.com/custom-dimensions/)
+#### [From online metrics blog post on custom dimensions](https://online-metrics.com/custom-dimensions/)
 
 * **user-level**: Customer ID, lead, member type, fan level (reader, commenter, subscriber, customer)
 * **session-level**: Logged in, time of day, coupon code, chat
 * **hit-level**: author, blog or product category, word count
 * **product-level**: availability, product type, profit margin, color
 
-#### [From simo blog post on custom dimensions] (https://www.simoahava.com/analytics/13-useful-custom-dimensions-for-google-analytics/)
+#### [From simo blog post on custom dimensions](https://www.simoahava.com/analytics/13-useful-custom-dimensions-for-google-analytics/)
 
 * **user-level**: client ID, user ID, 
 * **session-level**: session ID, 
