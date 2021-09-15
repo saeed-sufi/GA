@@ -150,6 +150,8 @@
 
 * Attribution is simply the science (or, too often, the art) of distributing credit for conversions across your various marketing channels.
 
+* Ecommerce standard reporting vs enhanced reporting: what happend vs what happend and how it happend.
+
 ### Custom dimension examples
 
 #### [From online metrics blog post on custom dimensions](https://online-metrics.com/custom-dimensions/)
