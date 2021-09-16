@@ -192,3 +192,8 @@
 * Remember, metrics are really reports on people. This is where most off-the-shelf metrics packages fail. For example, consider a report that claims in a split-test between two proposed features, feature A generated more revenue than feature B. Which people used feature A? Which people used feature B?...  
 
 
+## Common pitfalls
+
+* Using UA transaction tag works only with the Standard Ecommerce. For Enhanced Ecommerce tag use either pageview or event tag.
+
+* Try to include both product name and ID. If you don’t include the Product ID, then product list attribution will not work (of course, if you are tracking the performance of the product list in the first place). 
