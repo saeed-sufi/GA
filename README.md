@@ -203,3 +203,8 @@
 * Click Classes returns the value of the class attribute of the HTML element that was the target of the action. Click Element returns the HTML element that was the target of the action. "Matches CSS Selector" is a check whether any given element matches a given CSS selector.
 
 * `element visibility` is a heavy task for the browser. Use it with caution.
+
+* You can set custom events as trigger for Hotjar recording or heatmap. 
+
+* You can set priority for tag. A higher number has a higher priority.
+
