@@ -197,3 +197,9 @@
 * Using UA transaction tag works only with the Standard Ecommerce. For Enhanced Ecommerce tag use either pageview or event tag.
 
 * Try to include both product name and ID. If you don’t include the Product ID, then product list attribution will not work (of course, if you are tracking the performance of the product list in the first place). 
+
+## GTM
+
+* Click Classes returns the value of the class attribute of the HTML element that was the target of the action. Click Element returns the HTML element that was the target of the action. "Matches CSS Selector" is a check whether any given element matches a given CSS selector.
+
+* `element visibility` is a heavy task for the browser. Use it with caution.
