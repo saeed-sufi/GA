@@ -208,3 +208,11 @@
 
 * You can set priority for tag. A higher number has a higher priority.
 
+* If `dataLayer` is used before google tag manager code, then it would run before the container loaded event happens.
+
+* Always make sure that the data is being sent to GA. Go to network tab of devtools and search for `/collect`.
+
+* A quick way to check the css selector you need to use is to `document.querySelectorAll()` to see if the css class you want to use is specific enough.
+
+* Use `JSON.parse()` to extract variables out of strings that look like objects for example form strings. This is also useful when working with cookies because they are always used as strings. 
+
