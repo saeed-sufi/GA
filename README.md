@@ -217,3 +217,6 @@
 * Use `JSON.parse()` to extract variables out of strings that look like objects for example form strings. This is also useful when working with cookies because they are always used as strings. 
 
 * When checking if `gtm.js` is installed correctly, check `sources` tab in the devtools and search for `gtm.js`. It might have been inserted in the js file of the website. 
+
+
+
