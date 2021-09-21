@@ -219,4 +219,14 @@
 * When checking if `gtm.js` is installed correctly, check `sources` tab in the devtools and search for `gtm.js`. It might have been inserted in the js file of the website. 
 
 
+## CXL
 
+### Google Analytics
+
+* If the user naturally criss cross between two domains in one session, then put those two domains in one `property`, if not, then you can put them in separate properties.
+
+* When you want to check if you are a user with enough access in a GA view, go to admin and check `goals` and `filter` on the `view` column. If the `New Goal` or `Filter` buttons are active, then you can do anything you want in this view. 
+
+* Set your timezone to where your servers that are runnig your cart system are located.
+
+* Always consider the first property in an account, as a decoy property for spam bots and for your real site make a second property. 
