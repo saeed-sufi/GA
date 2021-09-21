@@ -230,3 +230,5 @@
 * Set your timezone to where your servers that are runnig your cart system are located.
 
 * Always consider the first property in an account, as a decoy property for spam bots and for your real site make a second property. 
+
+* The main use case of real time reporting is to check if the GA is working as expected. 
