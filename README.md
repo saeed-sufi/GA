@@ -232,3 +232,5 @@
 * Always consider the first property in an account, as a decoy property for spam bots and for your real site make a second property. 
 
 * The main use case of real time reporting is to check if the GA is working as expected. 
+
+* In `affinity categories` section of `interests` in `audience` section, you can see that in what other fields your users are interested so that you will consider site which promote those products to place an ad on. 
