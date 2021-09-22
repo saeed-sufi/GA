@@ -236,3 +236,9 @@
 * In `affinity categories` section of `interests` in `audience` section, you can see that in what other fields your users are interested so that you will consider site which promote those products to place an ad on. 
 
 * source / medium => brand / type
+
+* Channels are a larger category than brand / type categoriyes. Ex: Social is a channel which includes facebook as a brand. 
+
+* Search Console data is incompatible with Google Analytics segments. If you apply segments to the Search Console reports, the Analytics metrics are segmented, but the Search Console metrics are not, and return values of 0.
+
+* A large number of "direct" users may indicate untracked landing pages.
