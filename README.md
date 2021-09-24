@@ -152,6 +152,8 @@
 
 * Ecommerce standard reporting vs enhanced reporting: what happend vs what happend and how it happend.
 
+* 5 pillars of a robust measurement plan: 1- Leverage first-party data 2- Cross-platform tools 3- Be transparent 4- Fill in measurement gaps with model data 5- Cloud-based solutions
+
 ### Custom dimension examples
 
 #### [From online metrics blog post on custom dimensions](https://online-metrics.com/custom-dimensions/)
@@ -242,3 +244,12 @@
 * Search Console data is incompatible with Google Analytics segments. If you apply segments to the Search Console reports, the Analytics metrics are segmented, but the Search Console metrics are not, and return values of 0.
 
 * A large number of "direct" users may indicate untracked landing pages.
+
+* Standard ecommerce answers what was purchased whereas Enhanced ecommerce answers how was purchased.
+
+* `Real Time` reports are about testing, `audience reports` answers `who`, `acquisition reports` answers `where`, `behavior reports` answers `action`, `conversion reports` answers `results`. 
+
+* With bounce rates, you have to compare different bounce rates of different pages. Bounce rate shouldn't be interpreted as an absolute value. There's no good or bad bounce rate. 
+
+* When you are looking at the landing page reports, ask yourself if that makes sense.
+
