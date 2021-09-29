@@ -253,3 +253,19 @@
 
 * When you are looking at the landing page reports, ask yourself if that makes sense.
 
+* At least 3 views are needed: Raw Data View, Production View: this is the one you use to answer your questions, Test View.
+
+* Add the following filters to your views:
+	Create a `show domain` filter. 
+	Create a `add a slash` filter to prevent fractured pages. 
+	Create a filter to only recieve traficc from your own domains (not spam domains). 
+	Create a filter to make all the traffic names lower case.
+	Create a filter to make search terms lower case. 
+	
+* You should use the `All Filters` section of the account column to remove extra filters. Always keep it clean. 
+
+* Does the filter match the purpose of the view? If yes, use it. 
+
+* When creating a UTM, for the campaign part you should ask yourself what's the purpose of the campaign? 
+
+* 3 rules to keep in mind when creating UTMs: 1- use dash instead of spaces 2- all letters lowercase 3- no punctuation.
