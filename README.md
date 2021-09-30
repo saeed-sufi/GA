@@ -269,3 +269,13 @@
 * When creating a UTM, for the campaign part you should ask yourself what's the purpose of the campaign? 
 
 * 3 rules to keep in mind when creating UTMs: 1- use dash instead of spaces 2- all letters lowercase 3- no punctuation.
+
+* There are three types of goals you want to keep an eye on: Remember the A.C.E model: Awareness, Completion, Engagement.
+
+* Goals are counted per session in Google Analytics.
+
+* If your funnels are not working correctly, chances are they are in need of some love touch of regex.
+
+* Duration goals and pages per session goals do not show up on real time reports. 
+
+* To track engagement, you can set pages per session goals.
