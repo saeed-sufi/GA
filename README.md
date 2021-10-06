@@ -256,11 +256,11 @@
 * At least 3 views are needed: Raw Data View, Production View: this is the one you use to answer your questions, Test View.
 
 * Add the following filters to your views:
-	Create a `show domain` filter. 
-	Create a `add a slash` filter to prevent fractured pages. 
-	Create a filter to only recieve traficc from your own domains (not spam domains). 
-	Create a filter to make all the traffic names lower case.
-	Create a filter to make search terms lower case. 
+	* Create a `show domain` filter. 
+	* Create a `add a slash` filter to prevent fractured pages. 
+	* Create a filter to only recieve traficc from your own domains (not spam domains). 
+	* Create a filter to make all the traffic names lower case.
+	* Create a filter to make search terms lower case. 
 	
 * You should use the `All Filters` section of the account column to remove extra filters. Always keep it clean. 
 
@@ -279,3 +279,8 @@
 * Duration goals and pages per session goals do not show up on real time reports. 
 
 * To track engagement, you can set pages per session goals.
+
+* **Destination Goals**: When a visitor lands on a specific page, the Goal is triggered. These are perfect for building funnels.
+* **Duration Goals**: When a visitor spends X amount of time on your site, the Goal is triggered. These are perfect for measuring engagement.
+* **Pages/Screens Per Session Goals**: When a visitor lands on X amount of pages in a single session, the Goal is triggered. Again, these are perfect for measuring engagement.
+* **Event Goals—Whenever**: a certain condition (or set of conditions) is met, the Goal is triggered. These are the most flexible.
