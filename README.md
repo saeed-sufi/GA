@@ -258,7 +258,7 @@
 * Add the following filters to your views:
 	* Create a `show domain` filter. 
 	* Create a `add a slash` filter to prevent fractured pages. 
-	* Create a filter to only recieve traficc from your own domains (not spam domains). 
+	* Create a filter to only recieve traffic from your own domains (not spam domains). 
 	* Create a filter to make all the traffic names lower case.
 	* Create a filter to make search terms lower case. 
 	
@@ -283,4 +283,14 @@
 * **Destination Goals**: When a visitor lands on a specific page, the Goal is triggered. These are perfect for building funnels.
 * **Duration Goals**: When a visitor spends X amount of time on your site, the Goal is triggered. These are perfect for measuring engagement.
 * **Pages/Screens Per Session Goals**: When a visitor lands on X amount of pages in a single session, the Goal is triggered. Again, these are perfect for measuring engagement.
-* **Event Goals—Whenever**: a certain condition (or set of conditions) is met, the Goal is triggered. These are the most flexible.
+* **Event Goals**: Whenever a certain condition (or set of conditions) is met, the Goal is triggered. These are the most flexible.
+
+* “The Truth is in the Trend; The Power is in the Pattern”.
+
+* Spam traffic will typically show as a Referral report while the bot traffic will usually show as Direct traffic in Google Analytics.
+
+* Transactions with no value (i.e. $0) and cancelled transactions do not appear in Google Analytics.
+
+* Be carefull with `include filters` as you might accidentally end up filtering all data from your reports
+
+* Data is useful only if you can action on it.
