@@ -154,6 +154,14 @@
 
 * 5 pillars of a robust measurement plan: 1- Leverage first-party data 2- Cross-platform tools 3- Be transparent 4- Fill in measurement gaps with model data 5- Cloud-based solutions
 
+* My recommendation is that going forward all your segments should focus on users first and sessions second. Because if you focus on a relationship, rather than a connection, you will get better business results.
+
+* Google analytics report `event value` as a `metric` in its reports. 	
+
+* Use unique `action names` while creating events. 
+
+* Add annotations using the Admin interface since you can set a future date there. 
+
 ### Custom dimension examples
 
 #### [From online metrics blog post on custom dimensions](https://online-metrics.com/custom-dimensions/)
