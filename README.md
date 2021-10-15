@@ -302,3 +302,27 @@
 * Be carefull with `include filters` as you might accidentally end up filtering all data from your reports
 
 * Data is useful only if you can action on it.
+
+* Create horizontal funnels to have higher flexibility. 
+
+* Apply cross-domain tracking by inserting your other domains in `auto link domains` setting of the tag manager setting variable. 
+
+* you can group your macro conversions into one goal set, and your micro conversions into another goal set, it would make using GA easier
+
+* A unique pageview represents the number of sessions during which that page was viewed one or more times.
+
+* Entrances is incremented on the first pageview or screenview hit of a session. In contrast, Sessions is incremented on the first hit of a session, regardless of hit type. Thus, there may be a discrepancy between Entrances and Pageviews or Screenviews for properties where the first hit of a session can be an event hit.
+
+* time on page is calculated as the difference between the initiation of successive pageviews: pageview 3 - pageview 2
+
+* There are two methods by which a session ends:
+
+	* Time-based expiration:
+		* After 30 minutes of inactivity
+		* At midnight
+	* Campaign change:
+		* If a user arrives via one campaign, leaves, and then comes back via a different campaign.
+
+* Each search term updates the campaign, so each keyword corresponds to a new session.
+
+* manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
