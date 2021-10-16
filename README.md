@@ -367,3 +367,21 @@ The goal of these calculations is to try to determine a rough estimate of how im
 * Ahref Rank is basically all websites in their database ordered by their raw DR values. Think of Ahref Rank as a granular version of Domain Rating.
 
 * Ahref Rank is unrelated to Google Rankings oe search traffic.
+
+* Google keyword data: base for search volume calculations.
+
+* Clickstream data: refine numbers and find new keyword ideas.
+
+* Search reasults data: ranking positions + track SERP features.
+
+* Search volume: the average number of times people search for a query in a target country. 
+
+* Total keywords: Calculated by counting all search queries a URL, subfolder, or domain ranks for in the top 100.
+
+* Organic traffic: Estimates the total number of monthly search visits to a website, subsection or page. It's calculated as CTR * Search volume of keyword.
+
+* Traffic value: The value of the organic search traffic, if it were to be acquired via PPC in Google Ads. 
+
+* Top keyword: The query that brings the most search traffic to a URL.
+
+* Keyword difficulty: Estimates how hard it'll be to rank in the top 10 organic search results in a specific location. Best to use KD as a filter when working with large datasets. 
