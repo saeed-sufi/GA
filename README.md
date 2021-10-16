@@ -350,7 +350,7 @@
 
 * The only data source to get backlinks and referring domain stats is crawlers.
 
-* The total number of backlinks and referring domains is the `bottom level metric`. It is used to make second link metrics like url metrics.
+* The total number of backlinks and referring domains is the `bottom level metric`. It is used to make second level metrics like url metrics.
 
 * URL rating represents the overall strength of a page's backlink profile. It's a logarithmic scale. 
 
