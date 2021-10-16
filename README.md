@@ -327,8 +327,8 @@
 
 * manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
 
-** Ahref 
 
+## Ahref 
 
 * Fresh index, good coverage, not get blocked: Choose two.
 
