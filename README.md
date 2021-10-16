@@ -326,3 +326,44 @@
 * Each search term updates the campaign, so each keyword corresponds to a new session.
 
 * manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
+
+** Ahref 
+
+
+* Fresh index, good coverage, not get blocked: Choose two.
+
+* Crawl budget is the number of URLs a crawler can and wants to crawl. Budget has two aspects. Rate and Demand. Rate means the number of requests crawlers can make to a site when crawling it. Page download time and website size determine the crawl rate. Crawl demand or crawl priority means the level of importance to crawl and recrawl pages on a site. 
+
+* The more quality backlinks a page has, the higher the priority for recrawling.
+
+* Domain Rating: the overall strength of a website's link popularity. It has the same calculation principles as URL rating except that it looks at links between domains instead of pages. 
+
+* Discovering vs Crawling: we might discover a link but since it has a low priority it won't be crawled. 
+
+* Ahref's Backlink Metrics: 1-Ahref rank 2- Domain rating 3- URL rating.
+
+* Ahref's Search Traffic Metrics: 1- Search traffic estimation 2- Traffic value
+
+* Ahref's Keyword Metrics: 1- Search volume 2- Keyword difficulty 3- Total organic keyword rankings 4- Top keyword
+
+* Main data sources: 1- Crawler 2- Keyword 3- Clickstream 4- Search results data 
+
+* The only data source to get backlinks and referring domain stats is crawlers.
+
+* The total number of backlinks and referring domains is the `bottom level metric`. It is used to make second link metrics like url metrics.
+
+* URL rating represents the overall strength of a page's backlink profile. It's a logarithmic scale. 
+
+* Ahref URL rating is similar to the calculation of Google's PageRank formula. Some of the influential parameters include: 
+
+	* Counting links between pages
+	* Looking at both internal and external links pointing at a target. 
+	* Weightinh the links differently
+	* Respecting the "nofollow" attribute
+	* Using a damping factor.
+
+The goal of these calculations is to try to determine a rough estimate of how important a page is.
+
+* Ahref Rank is basically all websites in their database ordered by their raw DR values. Think of Ahref Rank as a granular version of Domain Rating.
+
+* Ahref Rank is unrelated to Google Rankings oe search traffic.
