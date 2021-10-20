@@ -385,3 +385,60 @@ The goal of these calculations is to try to determine a rough estimate of how im
 * Top keyword: The query that brings the most search traffic to a URL.
 
 * Keyword difficulty: Estimates how hard it'll be to rank in the top 10 organic search results in a specific location. Best to use KD as a filter when working with large datasets. 
+
+ Crawl credit: In ahref, it is consumed only if we crawl an internal HTML page that returns a 200 response code. Resource files, external pages, pages that redirect 404 pages do not count as crawl credits. 
+
+* A Seed URL in web crawling is a url from which a web crawler will begin to traverse a site.
+
+* Crawler can crawl if: 1. rules in robots.txt are respected. 2- At least one seed URL which returns 200 ok, exist 3- Your hosting company or CDN has not blocked ahref IPs. 4- Your website configuraions on redirecting pages is also important.
+
+* Verifying ownership: 1- Increase the crawl speed, 2- Adjust the number of parallel requests. 3- can ignore the robots.txt rules. 
+
+* Seed URLs are decided when looking at sitemap_index.xml. Any URLs that are considered seeds will have a crawl depth of 0. 
+
+* Check HTTP status of external links to check for Broken external links and URLs that redirect  to a destination you may not want to link to. 
+
+* Max folder depth counts the number of slashes in the URL.
+
+* Use SiteAudit bot to run on-demand crawls on smaller scale to crawl a single domain and its external links.
+
+* SiteAudit bot will also store server-related data such as HTTP status codes, page size and page download times. 
+
+* Page rating: representing the relative 'rank' of a URL based on the internal linking structure for a crawl.
+
+* 301 redirect VS Canonical 
+	* 301: okay, google (or any other search engine), my page isn't there anymore and it's been permanently moved to a new URL. Please, delete the old link from the index, and pass the link juice to the new page.
+
+	* Canonical: okay, google, I've got multiple versions of the same page (or its content), so, please, index only the canonical version. I will keep the other versions for people to see, but don't index them, please, and pass the link juice to the canonical page.
+
+* Regex to determine Folder depth: https.\/\/ahrefs.com/([^/]+/){2}[^/]* : number 2 indicates the depth of the folder.
+
+* Use page explorer to create custom issues if you need them. 
+
+* Structure Explorer shows you the distribution of URLs based on specific categories. 
+
+* Websub protocol helps in indexing new changes in just seconds.
+
+* Use XSLT to style sitemaps to make them readable (wordpress plugins).
+
+* A technical SEO audddit fall into 3 categories: 1. technical errors, 2. UX error, 3. Ranking opportunities.
+
+* Technical errors include: crawling issues, broken links, slow site speed, and duplicate content.
+
+* Technical SEO include topics like: Meta (robots, description, canonical), structured data, sitemaps, accelerated mobile pages, speed, heading (H1-H6), URL structures, internal link structures, redirects, status codes, HTTP(s), SEO experimentation, translations,International SEO: sitemaps, HREFLang
+
+* Do a technical SEO audit at least once a quarter. 
+
+* Technical SEO is often for the Big sites. Sites with more than 50000 pages, with multiple people involved in SEO, SEO is understood and part of a bigger organization.
+
+* Analyzing impact of technical SEO: Use web analytics to measure impact on a template-level. Measure clicks, impressions, CTR and position by using custom dimensions, goals, organic traffic, segmentation and custom metrics. 
+
+* In order to decide what is the right URL structure, use keyword data. 
+
+* If 302 has been in place for longer than three months, it’s worth making it a 301.
+
+* Page speed: How long it takes for a page to load. Site speed: The average time it takes for a sample of pageviews to load.
+
+* Aim for PNG image formats as they tend to achieve the best quality to compression ratio.
+
+* In general, only add hreflang tags to your web pages that have self referencing canonicals.
