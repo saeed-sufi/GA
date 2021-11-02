@@ -442,3 +442,17 @@ The goal of these calculations is to try to determine a rough estimate of how im
 * Aim for PNG image formats as they tend to achieve the best quality to compression ratio.
 
 * In general, only add hreflang tags to your web pages that have self referencing canonicals.
+
+* You can ping Google or Bing about the new/updated content: https://google.com/ping?sitemap={Url to sitemap}
+
+* Stick to lowercase, always when it comes to SEO.
+
+* If the site has different subdomains for mobile and desktop, add the rel=”alternate” tag to the sitemap.
+
+* 410: page permanently deleted, 429: Too many server requests in a short space of time
+
+* You’ll also want to cross-check the crawl stats in Google Search Console with average load time in Google Analytics to see if there is a correlation between time spent downloading and the pages crawled per day.
+
+* Create a segment in Google Analytics based on the most searched keyword on your site to see which pages are ranking for that particular search term. 
+
+* To check if your page is cached by google: http://webcache.googleusercontent.com/search?q=cache:https://www.searchenginejournal.com/pubcon-day-3-women-in-digital-amazon-analytics/176005/
