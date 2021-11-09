@@ -456,3 +456,73 @@ The goal of these calculations is to try to determine a rough estimate of how im
 * Create a segment in Google Analytics based on the most searched keyword on your site to see which pages are ranking for that particular search term. 
 
 * To check if your page is cached by google: http://webcache.googleusercontent.com/search?q=cache:https://www.searchenginejournal.com/pubcon-day-3-women-in-digital-amazon-analytics/176005/
+
+
+Here’s an example of some of the things included in an technical audit. (Not exhaustive)
+• Crawling issues
+
+• Indexation issues
+
+• JavaScript rendering Issues
+
+• Unexpected URLs in the Search results
+
+• Canonical tag configuration
+
+• URL Structure
+
+• Redirects
+
+• Redirect/canonical chains
+
+• Broken Links
+
+• robots tag configuration (noindex/nofollow)
+
+• Localisation
+
+• hreflang tag configuration
+
+• Google Search Console settings and Errors
+
+• Content Structure Issues
+
+• XML Sitemap configuration
+
+• Secure HTTPS setup
+
+• Page Speed
+
+• Structured data data/schema implementation
+
+• Image Optimisation
+
+• Internal links status
+
+• Internal linking
+
+• Duplicate Pages
+
+• Duplicate Content
+
+• Mobile setup (including amp, PWA, dynamic serving, app indexing)
+
+• Thin Content
+
+• Robots.txt configuration
+
+• Meta tag issues (page title, Meta descriptions, etc.)
+
+• Webmaster Tools / Google Search Console Issues
+
+• Spam/Malware
+
+• Orphan Pages
+
+• Spider Traps
+
+• Issues with E-A-T
+
+Optional Add on:
+
+Server Log Analysis: Find out exactly what Google is and isn’t crawling compared to the structure of the website.
