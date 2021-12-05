@@ -457,7 +457,11 @@ The goal of these calculations is to try to determine a rough estimate of how im
 
 * To check if your page is cached by google: http://webcache.googleusercontent.com/search?q=cache:https://www.searchenginejournal.com/pubcon-day-3-women-in-digital-amazon-analytics/176005/
 
-* To check if a website has subdomains in google: `site:https://pruneyardcinemas.com/ -inurl:https://pruneyardcinemas.com/`
+* To check if a website has subdomains in google: `site:https://pruneyardcinemas.com/ -inurl:https://pruneyardcinemas.com/`.
+
+* Google checks these 3 to guess if the content is duplicate: 1- Page title 2- Page URL and 3- h1 tag
+
+* For noindexing issues always do these checks first: 1- Noindex meta tags 2- robots.txt 3. sitemaps 4. redirects 5. canonical tag
 
 * Here’s an example of some of the things included in an **technical audit**. (Not exhaustive)
 • Crawling issues
