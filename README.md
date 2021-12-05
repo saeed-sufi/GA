@@ -457,6 +457,7 @@ The goal of these calculations is to try to determine a rough estimate of how im
 
 * To check if your page is cached by google: http://webcache.googleusercontent.com/search?q=cache:https://www.searchenginejournal.com/pubcon-day-3-women-in-digital-amazon-analytics/176005/
 
+* To check if a website has subdomains in google: `site:https://pruneyardcinemas.com/ -inurl:https://pruneyardcinemas.com/`
 
 * Here’s an example of some of the things included in an **technical audit**. (Not exhaustive)
 • Crawling issues
