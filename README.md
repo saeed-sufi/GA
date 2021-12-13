@@ -327,6 +327,19 @@
 
 * manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
 
+### GA4
+
+* Versioning of Google analytics:
+	* Urchin = GA1
+	* Classic analytics = GA2
+	* Universal analytics = GA3
+	* GA4
+
+* Firebase uses event-driven data model. Likewise, GA4 uses event-driven data model. In contrast, Universal analytics is hit-based. 
+
+* GA4 is an adoption of firebase with a new UI. Firebase can be easily updated to a GA4 property and all the historical data will be valid.
+
+* Alongside `page views`, GA4 automatically measures scrolls, downloads, site search, outbound clicks, ...
 
 ## Ahref 
 
