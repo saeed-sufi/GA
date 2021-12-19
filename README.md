@@ -511,4 +511,5 @@ The goal of these calculations is to try to determine a rough estimate of how im
 • Issues with E-A-T
 • Server Log Analysis: Find out exactly what Google is and isn’t crawling compared to the structure of the website.
 
-
+* `bounce rate` and `dwell time` offer a better understanding when used together: 
+ ![entity data vs event data source: keen.io/blog](https://github.com/saeed-sufi/GA/blob/main/bounce-rate-dwell-time-1.png?raw=true)
