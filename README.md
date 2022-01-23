@@ -327,6 +327,8 @@
 
 * manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
 
+* To group urls with various ending together you can use this regex: `/?($|[?#])`
+
 ### GA4
 
 * Versioning of Google analytics:
